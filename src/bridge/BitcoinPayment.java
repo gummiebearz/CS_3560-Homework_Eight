@@ -7,6 +7,6 @@ public class BitcoinPayment extends PaymentNotification {
 
     @Override
     public void notifyPayment() {
-        System.out.println("Your Bitcoin payment was successful.");
+        this.channel.send("Your Bitcoin payment was successful!");
     }
 }
