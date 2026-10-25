@@ -28,9 +28,11 @@ public class CustomerOrder {
     }
 
     public void printOrder() {
-        System.out.println("Customer: " + this.customerName);
-        for(Food food : order) {
-            System.out.println(food.getDescription());
+        System.out.printf(">> Customer: %s\n\n", this.customerName);
+        for(int i = 0; i < this.order.size(); i++) {
+            System.out.printf("%d: ", i + 1);
+            System.out.println(this.order.get(i).getDescription());
+            System.out.println();
         }
     }
 
