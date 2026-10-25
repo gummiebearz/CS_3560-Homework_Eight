@@ -7,6 +7,19 @@ public class LoyaltyStatus {
         this.status = status;
     }
 
+    public String toString() {
+        switch(status) {
+            case BRONZE:
+                return "Bronze";
+            case SILVER:
+                return "Silver";
+            case GOLD:
+                return "Gold";
+            default:
+                return "Non-member";
+        }
+    }
+
     public double applyDiscount(double total) {
         double discount = 0.0; // For non-members
 
