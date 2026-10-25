@@ -21,6 +21,19 @@ public class Tester {
         System.out.println("PART 1:");
         System.out.println("=======");
         display(notifications);
+
+        // Part 2
+        notifications.clear();
+
+        // Scenario 1: Bitcoin payment & Email notification
+        notifications.add(new BitcoinPayment(new EmailChannel()));
+        // Scenario 2: Bitcoin payment & SMS notification
+        notifications.add(new BitcoinPayment(new SmsChannel()));
+
+        System.out.println();
+        System.out.println("PART 2:");
+        System.out.println("=======");
+        display(notifications);
     }
 
     public static void display(ArrayList<PaymentNotification> notifications) {
