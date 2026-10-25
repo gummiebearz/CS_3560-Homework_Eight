@@ -34,6 +34,20 @@ public class Tester {
         System.out.println("PART 2:");
         System.out.println("=======");
         display(notifications);
+
+        // Part 3
+        notifications.clear();
+
+        // Scenario 1: Online payment & Push notification
+        notifications.add(new OnlinePaymentNotification(new PushChannel()));
+
+        // Scenario 2: Cash payment & Push notification
+        notifications.add(new CashOnDeliveryPayment(new PushChannel()));
+
+        System.out.println();
+        System.out.println("PART 3:");
+        System.out.println("=======");
+        display(notifications);
     }
 
     public static void display(ArrayList<PaymentNotification> notifications) {
