@@ -1,9 +1,10 @@
 package decorator;
 
 public class Pasta implements Food {
+    private static final double BASE_PRICE = 16.99;
     @Override
     public double getCost() {
-        return 18.99;
+        return BASE_PRICE;
     }
 
     @Override
