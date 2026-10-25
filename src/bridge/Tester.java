@@ -18,8 +18,9 @@ public class Tester {
         // Scenario 4: Cash payment & SMS notification
         notifications.add(new CashOnDeliveryPayment(new SmsChannel()));
 
-        for(PaymentNotification notification : notifications) {
-            notification.notifyPayment();
+        for(int i = 0; i < notifications.size(); i++) {
+            System.out.printf("Scenario %d: \n", i);
+            notifications.get(i).notifyPayment();
         }
     }
 }
