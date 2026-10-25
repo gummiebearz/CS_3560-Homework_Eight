@@ -1,0 +1,69 @@
+----------------
+Order#1
+----------------
+>> Customer: Shiba Inu
+>> Loyalty Status: Non-member
+
+1: House Special Beef Noodle soup with rare beef slices, brisket, flanks, tripes, and tendons
+Added: Beef Ribs
+
+2: Creamy mushroom pasta
+Added: GarlicParmesan
+Added: Chicken
+
+3: Crispy waffle fries
+
+>> Total Price Before Discount: 51.20
+>> Total Price After Discount: 51.20
+----------------
+Order#2
+----------------
+>> Customer: Golden Retriever
+>> Loyalty Status: Gold
+
+1: House Special Beef Noodle soup with rare beef slices, brisket, flanks, tripes, and tendons
+Added: Beef Balls
+Added: Beef Ribs
+
+2: Crispy waffle fries
+Added: GarlicParmesan
+Added: Bacon Bits
+
+>> Total Price Before Discount: 32.20
+>> Total Price After Discount: 27.37
+----------------
+Order#3
+----------------
+>> Customer: Labrador
+>> Loyalty Status: Silver
+
+1: Creamy mushroom pasta
+
+2: Creamy mushroom pasta
+Added: Chicken
+
+3: House Special Beef Noodle soup with rare beef slices, brisket, flanks, tripes, and tendons
+
+4: Crispy waffle fries
+
+>> Total Price Before Discount: 60.95
+>> Total Price After Discount: 54.86
+----------------
+Order#4
+----------------
+>> Customer: Husky
+>> Loyalty Status: Bronze
+
+1: Creamy mushroom pasta
+Added: Bacon Bits
+
+2: House Special Beef Noodle soup with rare beef slices, brisket, flanks, tripes, and tendons
+Added: Beef Ribs
+Added: Beef Ribs
+
+3: Crispy waffle fries
+Added: GarlicParmesan
+Added: GarlicParmesan
+
+>> Total Price Before Discount: 53.44
+>> Total Price After Discount: 50.77

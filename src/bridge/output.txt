@@ -1,0 +1,24 @@
+PART 1:
+=======
+Scenario 1: 
+[Email] -> Your online payment via was successful!
+Scenario 2: 
+[SMS] -> Your online payment via was successful!
+Scenario 3: 
+[Email] -> Payment on delivery. Please have cash ready on delivery.
+Scenario 4: 
+[SMS] -> Payment on delivery. Please have cash ready on delivery.
+
+PART 2:
+=======
+Scenario 1: 
+[Email] -> Your Bitcoin payment was successful!
+Scenario 2: 
+[SMS] -> Your Bitcoin payment was successful!
+
+PART 3:
+=======
+Scenario 1: 
+[Push] -> Your online payment via was successful!
+Scenario 2: 
+[Push] -> Payment on delivery. Please have cash ready on delivery.
