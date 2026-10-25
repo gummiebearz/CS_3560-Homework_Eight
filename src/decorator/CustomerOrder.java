@@ -28,7 +28,8 @@ public class CustomerOrder {
     }
 
     public void printOrder() {
-        System.out.printf(">> Customer: %s\n\n", this.customerName);
+        System.out.printf(">> Customer: %s\n", this.customerName);
+        System.out.printf(">> Loyalty Status: %s\n\n", this.loyaltyStatus.toString());
         for(int i = 0; i < this.order.size(); i++) {
             System.out.printf("%d: ", i + 1);
             System.out.println(this.order.get(i).getDescription());
