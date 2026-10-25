@@ -7,6 +7,6 @@ public class CashOnDeliveryPayment extends PaymentNotification {
 
     @Override
     public void notifyPayment() {
-        System.out.println("Payment on delivery. Please have cash ready on delivery.");
+        this.channel.send("Payment on delivery. Please have cash ready on delivery.");
     }
 }
