@@ -1,9 +1,10 @@
 package decorator;
 
 public class Pho implements Food {
+    private static final double BASE_PRICE = 14.99;
     @Override
     public double getCost() {
-        return 15.99;
+        return BASE_PRICE;
     }
 
     public String getDescription() {
