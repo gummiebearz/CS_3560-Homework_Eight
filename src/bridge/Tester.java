@@ -3,7 +3,7 @@ package bridge;
 import java.util.ArrayList;
 
 public class Tester {
-    public static void main() {
+    public static void main(String[] args) {
         ArrayList<PaymentNotification> notifications = new ArrayList<>();
 
         // Scenario 1: Online payment & Email notification
