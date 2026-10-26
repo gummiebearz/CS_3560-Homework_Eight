@@ -33,6 +33,9 @@ public class LoyaltyStatus {
             case GOLD:
                 discount = 0.15;
                 break;
+            default:
+                discount = 0.00;
+                break;
         }
 
         return total - (total * discount);
