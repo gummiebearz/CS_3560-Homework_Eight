@@ -14,6 +14,6 @@ public class GarlicParmesan extends ToppingDecorator {
 
     @Override
     public String getDescription() {
-        return this.food.getDescription() + "\n" + "Added: GarlicParmesan";
+        return this.food.getDescription() + "\n" + "Added: Garlic Parmesan";
     }
 }

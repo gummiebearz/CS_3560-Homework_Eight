@@ -1,7 +1,8 @@
 package decorator;
 
-public class BeefRibs extends ToppingDecorator{
+public class BeefRibs extends ToppingDecorator {
     private static final double PRICE = 5.99;
+
     public BeefRibs(Food food) {
         this.food = food;
     }
