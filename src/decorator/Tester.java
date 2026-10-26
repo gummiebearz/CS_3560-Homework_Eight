@@ -52,6 +52,7 @@ public class Tester {
 
             System.out.printf(">> Total Price Before Discount: $%.2f\n", order.getTotal());
             System.out.printf(">> Total Price After Discount: $%.2f\n", order.getDiscountedTotal());
+            System.out.println();
         }
     }
 }
