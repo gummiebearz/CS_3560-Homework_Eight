@@ -7,6 +7,7 @@ public class Pho implements Food {
         return BASE_PRICE;
     }
 
+    @Override
     public String getDescription() {
         return "House Special Beef Noodle soup with rare beef slices, brisket, flanks, tripes, and tendons";
     }
