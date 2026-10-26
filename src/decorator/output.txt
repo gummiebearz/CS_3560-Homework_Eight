@@ -8,13 +8,13 @@ Order#1
 Added: Beef Ribs
 
 2: Creamy mushroom pasta
-Added: GarlicParmesan
+Added: Garlic Parmesan
 Added: Chicken
 
 3: Crispy waffle fries
 
->> Total Price Before Discount: 51.20
->> Total Price After Discount: 51.20
+>> Total Price Before Discount: $51.20
+>> Total Price After Discount: $51.20
 ----------------
 Order#2
 ----------------
@@ -26,11 +26,11 @@ Added: Beef Balls
 Added: Beef Ribs
 
 2: Crispy waffle fries
-Added: GarlicParmesan
+Added: Garlic Parmesan
 Added: Bacon Bits
 
->> Total Price Before Discount: 32.20
->> Total Price After Discount: 27.37
+>> Total Price Before Discount: $32.20
+>> Total Price After Discount: $27.37
 ----------------
 Order#3
 ----------------
@@ -46,8 +46,8 @@ Added: Chicken
 
 4: Crispy waffle fries
 
->> Total Price Before Discount: 60.95
->> Total Price After Discount: 54.86
+>> Total Price Before Discount: $60.95
+>> Total Price After Discount: $54.86
 ----------------
 Order#4
 ----------------
@@ -62,8 +62,8 @@ Added: Beef Ribs
 Added: Beef Ribs
 
 3: Crispy waffle fries
-Added: GarlicParmesan
-Added: GarlicParmesan
+Added: Garlic Parmesan
+Added: Garlic Parmesan
 
->> Total Price Before Discount: 53.44
->> Total Price After Discount: 50.77
+>> Total Price Before Discount: $53.44
+>> Total Price After Discount: $50.77
