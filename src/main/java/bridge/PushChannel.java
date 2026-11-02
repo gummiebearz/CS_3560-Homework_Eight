@@ -1,4 +1,4 @@
-package bridge;
+package java.bridge;
 
 public class PushChannel implements NotificationChannel {
     @Override

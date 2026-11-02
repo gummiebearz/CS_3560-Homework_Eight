@@ -1,4 +1,4 @@
-package decorator;
+package java.decorator;
 
 public class GarlicParmesan extends ToppingDecorator {
     private static final double PRICE = 1.25;

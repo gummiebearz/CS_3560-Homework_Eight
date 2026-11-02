@@ -1,4 +1,4 @@
-package decorator;
+package java.decorator;
 
 public enum Status {
     NONE,

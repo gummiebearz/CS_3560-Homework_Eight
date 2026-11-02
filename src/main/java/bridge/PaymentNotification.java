@@ -1,7 +1,7 @@
-package bridge;
+package java.bridge;
 
 // Abstract class that uses any channel of type `NotificationChannel`
-// through the bridge field
+// through the main.java.bridge field
 // Reason for being abstract class is to allow creating any payment types
 // that extends the `PaymentNotification` without changing the `NotificationChannel`
 public abstract class PaymentNotification {

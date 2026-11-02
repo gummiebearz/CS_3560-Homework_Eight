@@ -1,4 +1,4 @@
-package bridge;
+package java.bridge;
 
 public class SmsChannel implements NotificationChannel {
     @Override

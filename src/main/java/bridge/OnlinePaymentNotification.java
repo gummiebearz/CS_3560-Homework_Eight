@@ -1,4 +1,4 @@
-package bridge;
+package java.bridge;
 
 public class OnlinePaymentNotification extends PaymentNotification {
     public OnlinePaymentNotification(NotificationChannel channel) {

@@ -1,4 +1,4 @@
-package bridge;
+package java.bridge;
 
 public class CashOnDeliveryPayment extends PaymentNotification {
     public CashOnDeliveryPayment(NotificationChannel channel) {

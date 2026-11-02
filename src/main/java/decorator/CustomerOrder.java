@@ -1,4 +1,4 @@
-package decorator;
+package java.decorator;
 
 import java.util.ArrayList;
 
