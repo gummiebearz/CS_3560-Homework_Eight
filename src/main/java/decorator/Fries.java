@@ -1,4 +1,4 @@
-package java.decorator;
+package main.java.decorator;
 
 public class Fries implements Food {
     private static final double BASE_PRICE = 4.99;

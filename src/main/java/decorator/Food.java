@@ -1,4 +1,4 @@
-package java.decorator;
+package main.java.decorator;
 
 public interface Food {
     double getCost();

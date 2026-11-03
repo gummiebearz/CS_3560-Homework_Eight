@@ -1,4 +1,4 @@
-package java.bridge;
+package main.java.bridge;
 
 // Abstract class that uses any channel of type `NotificationChannel`
 // through the main.java.bridge field

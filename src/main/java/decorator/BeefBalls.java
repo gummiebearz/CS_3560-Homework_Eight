@@ -1,4 +1,4 @@
-package java.decorator;
+package main.java.decorator;
 
 public class BeefBalls extends ToppingDecorator {
     private static final double PRICE = 2.99;
