@@ -1,4 +1,4 @@
-package main.java.bridge;
+package bridge;
 
 public class BitcoinPayment extends PaymentNotification {
     public BitcoinPayment(NotificationChannel channel) {

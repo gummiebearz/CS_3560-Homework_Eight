@@ -1,4 +1,4 @@
-package main.java.decorator;
+package decorator;
 
 public class LoyaltyStatus {
     private Status status;

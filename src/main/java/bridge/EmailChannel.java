@@ -1,4 +1,4 @@
-package main.java.bridge;
+package bridge;
 
 public class EmailChannel implements NotificationChannel {
     @Override

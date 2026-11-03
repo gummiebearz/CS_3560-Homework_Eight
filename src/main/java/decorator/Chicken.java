@@ -1,4 +1,4 @@
-package main.java.decorator;
+package decorator;
 
 public class Chicken extends ToppingDecorator {
     private static final double PRICE = 6.99;

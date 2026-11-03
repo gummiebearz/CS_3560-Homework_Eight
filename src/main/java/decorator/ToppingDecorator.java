@@ -1,4 +1,4 @@
-package main.java.decorator;
+package decorator;
 
 // Abstract main.java.decorator class that wraps any Food
 public abstract class ToppingDecorator implements Food {

@@ -1,4 +1,4 @@
-package main.java.decorator;
+package decorator;
 
 public class Pasta implements Food {
     private static final double BASE_PRICE = 16.99;
